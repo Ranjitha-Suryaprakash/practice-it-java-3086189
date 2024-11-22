@@ -1,8 +1,13 @@
 package _01_02b;
 
+import java.security.PublicKey;
+
 public class Employee {
 
   public static void main(String[] args) {
+
+	  
+	  //ranjitha
 
     // Create a variable called age of type int and assign it the value 29.
 
@@ -36,5 +41,11 @@ public class Employee {
     // thirdBonus.
 
   }
+
+private static void messageB() {
+	// TODO Auto-generated method stub
+	System.out.println("Hi");
+	
+}
 
 }
